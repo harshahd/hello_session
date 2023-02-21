@@ -1,0 +1,1 @@
+https://medium.com/swlh/jwt-json-web-tokens-user-authentication-in-next-js-web-application-51deab8f2e96
